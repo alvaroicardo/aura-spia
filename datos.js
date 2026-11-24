@@ -21,7 +21,7 @@ window.BOVEDA = {
   redes: [
     { nombre: "Instagram", usuario: "@alvaro.icardo.aura",       enlace: "https://www.instagram.com/alvaro.icardo.aura/" },
     { nombre: "TikTok",    usuario: "@alvaro_aura",              enlace: "https://www.tiktok.com/@alvaro_aura" },
-    { nombre: "YouTube",   usuario: "@coke_37",                  enlace: "https://www.youtube.com/@coke_37" },
+    { nombre: "YouTube",   usuario: "@AuraSpia",                 enlace: "https://www.youtube.com/@AuraSpia" },
     { nombre: "Twitch",    usuario: "directo en mis días libres", enlace: "https://www.twitch.tv/coke_37" },
   ],
 
