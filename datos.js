@@ -31,6 +31,7 @@ window.BOVEDA = {
      enlace: una página de este sitio (como "neurolab/") o una dirección completa (https://...)
      imagen: opcional; si no tienes, borra esa parte (desde imagen: hasta la coma) */
   destacados: [
+    { tipo: "Vídeo",    titulo: "Le pedí una alarma a mi IA",    texto: "…y al final me la puse yo. 25 segundos, fallos incluidos.",     enlace: "https://www.instagram.com/reel/DgIqzolgUrm/", imagen: "portadas/alarma.jpg" },
     { tipo: "Carrusel", titulo: "NeuroLab: así piensa una IA",  texto: "De una neurona a una red neuronal, en 8 láminas.",              enlace: "neurolab/",             imagen: "neurolab/salida/carrusel/neurolab-carrusel-01.png" },
     { tipo: "Lección",  titulo: "Juega con una neurona",         texto: "Mueve tú los pesos y mira cuándo se dispara. Sin instalar nada.", enlace: "neurolab/leccion.html" },
   ],
