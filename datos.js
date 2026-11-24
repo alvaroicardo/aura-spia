@@ -40,7 +40,7 @@ window.BOVEDA = {
      Sin precios: cambian a menudo y no quiero poner un dato viejo. */
   herramientas: [
     { nombre: "Claude",      para: "Escribir, resumir y entender código paso a paso.",        enlace: "https://claude.ai/" },
-    { nombre: "Claude Code", para: "Programar desde la terminal: con él construyo JARVIS.",   enlace: "https://www.anthropic.com/claude-code" },
+    { nombre: "Claude Code", para: "Programar desde la terminal: con él construyo JARVIS.",   enlace: "https://claude.com/product/claude-code" },
     { nombre: "ChatGPT",     para: "Sacar ideas de vídeo y redactar correos.",                enlace: "https://chatgpt.com/" },
     { nombre: "Gemini",      para: "Buscar información y montar planes de estudio.",          enlace: "https://gemini.google.com/" },
     { nombre: "Grok",        para: "Comparar propuestas y revisar el trabajo de mis agentes.", enlace: "https://grok.com/" },
